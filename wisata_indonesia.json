@@ -1,0 +1,104 @@
+{
+  "result": [
+    {
+      "id": "1",
+      "name": "Candi Borobudur",
+      "location": "Magelang, Jawa Tengah",
+      "category": "Candi & Sejarah",
+      "price": "Rp 50.000",
+      "rating": "4.8",
+      "description": "Candi Buddha terbesar di dunia yang dibangun pada abad ke-8. Warisan budaya UNESCO dengan arsitektur megah dan relief yang menakjubkan.",
+      "image": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=500"
+    },
+    {
+      "id": "2",
+      "name": "Raja Ampat",
+      "location": "Papua Barat",
+      "category": "Pantai & Laut",
+      "price": "Gratis",
+      "rating": "4.9",
+      "description": "Surga bawah laut dengan keanekaragaman hayati laut terkaya di dunia. Kepulauan dengan pemandangan alam yang menakjubkan dan spot diving terbaik.",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=500"
+    },
+    {
+      "id": "3",
+      "name": "Danau Toba",
+      "location": "Sumatera Utara",
+      "category": "Danau & Alam",
+      "price": "Gratis",
+      "rating": "4.7",
+      "description": "Danau vulkanik terbesar di Indonesia dengan Pulau Samosir di tengahnya. Pemandangan alam yang indah dan budaya Batak yang kaya.",
+      "image": "https://images.unsplash.com/photo-1598874535421-8de0c282efb9?w=500"
+    },
+    {
+      "id": "4",
+      "name": "Tanah Lot",
+      "location": "Tabanan, Bali",
+      "category": "Pura & Pantai",
+      "price": "Rp 60.000",
+      "rating": "4.6",
+      "description": "Pura di atas batu karang di tepi laut yang terkenal dengan pemandangan sunset yang spektakuler. Ikon wisata Bali yang wajib dikunjungi.",
+      "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=500"
+    },
+    {
+      "id": "5",
+      "name": "Gunung Bromo",
+      "location": "Probolinggo, Jawa Timur",
+      "category": "Gunung & Alam",
+      "price": "Rp 320.000",
+      "rating": "4.8",
+      "description": "Gunung berapi aktif dengan pemandangan sunrise yang memukau. Lautan pasir dan kawah yang eksotis menjadi daya tarik utama.",
+      "image": "https://images.unsplash.com/photo-1580218369584-5a37f7c65d87?w=500"
+    },
+    {
+      "id": "6",
+      "name": "Pantai Pink",
+      "location": "Komodo, NTT",
+      "category": "Pantai & Laut",
+      "price": "Rp 150.000",
+      "rating": "4.7",
+      "description": "Salah satu dari tujuh pantai berpasir pink di dunia. Air laut yang jernih dan terumbu karang yang indah cocok untuk snorkeling.",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=500"
+    },
+    {
+      "id": "7",
+      "name": "Kawah Ijen",
+      "location": "Banyuwangi, Jawa Timur",
+      "category": "Gunung & Alam",
+      "price": "Rp 100.000",
+      "rating": "4.8",
+      "description": "Kawah vulkanik dengan fenomena blue fire yang langka. Danau kawah berwarna tosca yang memukau dan aktivitas penambangan belerang tradisional.",
+      "image": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=500"
+    },
+    {
+      "id": "8",
+      "name": "Taman Mini Indonesia Indah",
+      "location": "Jakarta",
+      "category": "Taman & Budaya",
+      "price": "Rp 25.000",
+      "rating": "4.5",
+      "description": "Miniatur kebudayaan Indonesia dengan anjungan dari 34 provinsi. Tempat rekreasi keluarga yang edukatif dan menghibur.",
+      "image": "https://images.unsplash.com/photo-1555400038-63f5ba517a47?w=500"
+    },
+    {
+      "id": "9",
+      "name": "Labuan Bajo",
+      "location": "Flores, NTT",
+      "category": "Pantai & Pulau",
+      "price": "Gratis",
+      "rating": "4.9",
+      "description": "Gerbang menuju Taman Nasional Komodo dengan pemandangan sunset yang menawan. Pulau-pulau eksotis dan kehidupan laut yang kaya.",
+      "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=500"
+    },
+    {
+      "id": "10",
+      "name": "Nusa Penida",
+      "location": "Klungkung, Bali",
+      "category": "Pulau & Pantai",
+      "price": "Rp 50.000",
+      "rating": "4.8",
+      "description": "Pulau dengan tebing-tebing dramatis dan pantai tersembunyi yang indah. Kelingking Beach dengan formasi karang ikonik berbentuk T-Rex.",
+      "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=500"
+    }
+  ]
+}
